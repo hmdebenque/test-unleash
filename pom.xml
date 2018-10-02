@@ -7,7 +7,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:ssh://github.com:hmdebenque/test.git</connection>
+        <connection>scm:git:ssh://github.com/hmdebenque/test.git</connection>
         <url>https://github.com/hmdebenque/test</url>
         <tag>HEAD</tag>
     </scm>
