@@ -4,7 +4,7 @@
 
     <groupId>org.talend.hmdebenque</groupId>
     <artifactId>test-project</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:http://gitlab/hmdebenque/test.git</connection>
@@ -49,5 +49,4 @@
             <url>http://nexus:8081/repository/maven-snapshots</url>
         </snapshotRepository>
     </distributionManagement>
-    
 </project>
