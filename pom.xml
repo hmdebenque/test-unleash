@@ -3,13 +3,13 @@
 
     <groupId>org.talend.hmdebenque</groupId>
     <artifactId>test-project</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.8-SNAPSHOT</version>
 
     <scm>
         <!--<connection>scm:git:http://gitlab/hmdebenque/test.git</connection>-->
         <connection>scm:git:git@gitlab:hmdebenque/test.git</connection>
         <url>http://gitlab/hmdebenque/test</url>
-        <tag>test-project-1.0.7</tag>
+        <tag>test-project-1.0.2</tag>
     </scm>
 
     <build>
