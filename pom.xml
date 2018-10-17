@@ -25,6 +25,11 @@
                             <artifactId>unleash-scm-provider-git</artifactId>
                             <version>2.2.0</version>
                         </dependency>
+                        <dependency>
+                            <groupId>org.eclipse.jgit</groupId>
+                            <artifactId>org.eclipse.jgit</artifactId>
+                            <version>5.1.2.201810061102-r</version>
+                        </dependency>
                     </dependencies>
                 </plugin>
             </plugins>
