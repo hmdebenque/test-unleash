@@ -7,8 +7,8 @@
 
     <scm>
         <!-- ah ah ah <connection>scm:git:http://gitlab/hmdebenque/test.git</connection>-->
-        <connection>scm:git:git@gitlab:hmdebenque/test.git</connection>
-        <url>http://gitlab/hmdebenque/test</url>
+        <connection>scm:git:git@github.com:hmdebenque/test-unleash.git</connection>
+        <url>https://github.com/hmdebenque/test-unleash</url>
         <tag>HEAD</tag>
     </scm>
 
