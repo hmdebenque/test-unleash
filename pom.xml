@@ -6,7 +6,7 @@
     <version>1.0.8-SNAPSHOT</version>
 
     <scm>
-        <!--<connection>scm:git:http://gitlab/hmdebenque/test.git</connection>-->
+        <!-- ah ah ah <connection>scm:git:http://gitlab/hmdebenque/test.git</connection>-->
         <connection>scm:git:git@gitlab:hmdebenque/test.git</connection>
         <url>http://gitlab/hmdebenque/test</url>
         <tag>HEAD</tag>
