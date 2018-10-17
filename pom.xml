@@ -3,7 +3,7 @@
 
     <groupId>org.talend.hmdebenque</groupId>
     <artifactId>test-project</artifactId>
-    <version>1.0.9-SNAPSHOT</version>
+    <version>1.0.9</version>
     <packaging>pom</packaging>
     
     <modules>
@@ -15,7 +15,7 @@
         <!-- ah ah ah <connection>scm:git:http://gitlab/hmdebenque/test.git</connection>-->
         <connection>scm:git:git@github.com:hmdebenque/test-unleash.git</connection>
         <url>https://github.com/hmdebenque/test-unleash</url>
-        <tag>HEAD</tag>
+        <tag>1.0.9</tag>
     </scm>
 
     <build>
