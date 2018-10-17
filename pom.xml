@@ -4,6 +4,12 @@
     <groupId>org.talend.hmdebenque</groupId>
     <artifactId>test-project</artifactId>
     <version>1.0.9-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    
+    <modules>
+        <module>sub-project-1</module>
+        <module>sub-project-2</module>
+    </modules>
 
     <scm>
         <!-- ah ah ah <connection>scm:git:http://gitlab/hmdebenque/test.git</connection>-->
